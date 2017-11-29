@@ -29,4 +29,4 @@ use Mix.Config
 #
 #     import_config "#{Mix.env}.exs"
 config :http_server, :port, 8080
-config :http_server, :root, "/home/dixego/Documentos/Personal/sketchbook/elixir/http_server/content"
+config :http_server, :root, "RUTA ABSOLUTA A LA CARPETA content AQUI"
