@@ -4,7 +4,9 @@ Servidor simple HTTP implementado utilizando la biblioteca gen_tcp.
 
 ## Ejecucion
 
-En la carpeta raíz, correr
+Primero la carpeta donde esté el contenido a servir (`content`) debe configurarse en el archivo `config/config.exs`.
+
+Luego, en la carpeta raíz, correr
 
 ```
 iex -S mix
